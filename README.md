@@ -38,10 +38,11 @@
   ## Tests:
   employees: manager, engineer, intern test.
   ![image of view](./02-Homework/assets/my-team-view.png)
-  ![image of app](./02-Homework/assets/node-appjs.png)
+  ![image of app](./02-Homework/assets/node-appjs-run.png)
   ![image of test](./02-Homework/assets/npm-run-test.png)
 
   ## Questions:
+  * GitHub Profile: MikeyZ89
   * Contact Me @: michael.zlotkowski@gmail.com
   * Comments: Nice fast way to build out the basic structure of a company hierarchy.
 
