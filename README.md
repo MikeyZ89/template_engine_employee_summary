@@ -38,8 +38,11 @@
   ## Tests:
   employees: manager, engineer, intern test.
   ![image of view](./02-Homework/assets/my-team-view.png)
+  <img width="1000" src="02-Homework/assets/my-team-view.png">
   ![image of app](./02-Homework/assets/node-appjs-run.png)
+  <img width="1000" src="02-Homework/assets/node-appjs-run.png">
   ![image of test](./02-Homework/assets/npm-run-test.png)
+  <img width="1000" src="02-Homework/assets/npm-run-test.png">
 
   ## Questions:
   * GitHub Profile: MikeyZ89
